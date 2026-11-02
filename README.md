@@ -1,22 +1,37 @@
-# data-portfolio
-Portfolio of data analysis and machine learning projects focused on business optimization.
-Data Science Portfolio
+# Hey, I'm Juan Francisco! 👋
 
-Hello, my name is Juan Francisco Martínez.
+### Data Science Student | Python & Java | Tech Enthusiast
 
-I am a Data Science student focused on using data to identify opportunities for improvement, optimize processes, and support better decision-making in businesses.
+I'm a Data Science student at Universidad de La Sabana, Colombia.
 
-Areas of interest
-Data analysis
-Business optimization
-Machine learning
-Process improvement
-Predictive models
-Objective
+I'm currently building my foundations in programming,
+mathematics, algorithms, and data analysis.
 
-Apply data science to help organizations improve efficiency, increase profitability, and make better strategic decisions.
+I'm especially interested in exploring the connections
+between artificial intelligence, cognitive and behavioral
+psychology, and human behavior.
 
-Project 1 will focus on exploratory data analysis to identify patterns and business insights.
+## 🌱 Currently Learning
 
-Commit changes.
+- Python & Java
+- Algorithms and Data Structures
+- Data Analysis & Statistics
+- Git & GitHub
+
+## 💻 My Projects
+
+I'm building my portfolio through university projects
+and personal learning experiences.
+
+Check out my repositories to follow my progress!
+
+## 🌐 Connect With Me
+
+You can find all my social and professional profiles here:
+
+[My Links](https://juanfmarbo-links.greyemu32.chatgpt.site)
+
+---
+
+*Always learning, building, and exploring new ideas.*
 
