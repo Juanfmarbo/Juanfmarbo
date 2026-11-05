@@ -1,4 +1,4 @@
-# Hey, I'm Juan Francisco! 👋
+# Hey, I'm Juan Francisco! 
 
 ### Data Science Student | Python & Java | Tech Enthusiast
 
@@ -11,14 +11,14 @@ I'm especially interested in exploring the connections
 between artificial intelligence, cognitive and behavioral
 psychology, and human behavior.
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Python & Java
 - Algorithms and Data Structures
 - Data Analysis & Statistics
 - Git & GitHub
 
-## 💻 My Projects
+##  My Projects
 
 I'm building my portfolio through university projects
 and personal learning experiences.
